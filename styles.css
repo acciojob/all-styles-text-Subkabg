@@ -1,11 +1,13 @@
-main{
-	width:200px;
-	background-color:purple;
-	border-left: 5px solid green;  
-	padding:10px;
+.container {
+  width: 200px;
+  background-color: purple;
+  border-left: 5px solid green;
+  padding: 10px;
 }
-#heading{
-	text-font-size:20px;
-	color:white;
+
+h1 {
+  font-size: 20px;
+  color: white;
 }
+
 /* Your CSS Code here. */
